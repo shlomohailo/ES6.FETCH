@@ -1,0 +1,17 @@
+#cont {
+    align-items: center;
+    background-color: red;
+    width: 50vw;
+    height: 50vh;
+    text-align: center;
+    display: grid;
+    margin-top: 2%;
+    margin-left: 350px;
+    padding: 20px;
+    border: 2px solid  black;
+}
+
+input {
+    text-align: center;
+    
+}
